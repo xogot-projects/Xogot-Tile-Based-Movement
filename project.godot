@@ -16,7 +16,7 @@ compatibility/default_parent_skeleton_in_mesh_instance_3d=true
 
 config/name="TileBasedMovement"
 run/main_scene="uid://bhnfd22clkcxs"
-config/features=PackedStringArray("4.6", "Forward Plus")
+config/features=PackedStringArray("4.7", "Forward Plus")
 boot_splash/bg_color=Color(0.06469657, 0.06469652, 0.0646965, 1)
 config/icon="res://icon.svg"
 
